@@ -6,7 +6,7 @@ document.getElementById("submit").onclick = function(){
   }if (sa = 15 and sa < 16 ){
     alert('too young but you can try for your permit');
   }if (sa >= 70){
-    alert('you might need to get a new permit');
+    alert('you might need to get a new license');
   }else{
     alert('you can drive')
   }
