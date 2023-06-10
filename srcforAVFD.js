@@ -1,14 +1,14 @@
 document.getElementById("submit").onclick = function(){
-  var sa = document.getElementById("age").value    //sa means submitidage
+  var sa = document.getElementById("age").value;    //sa means submitidage
   
   if (sa < 15){
-    alert('too young')
+    alert('too young');
   }if (sa = 15){
-    alert('too young but you can try for your permit')
+    alert('too young but you can try for your permit');
   }if (sa >= 70){
-    alert('you might need to get a new permit')
+    alert('you might need to get a new permit');
   }else{
-    you can drive
+    alert('you can drive')
   }
 }
   
