@@ -1,8 +1,8 @@
 body {
-  background-color: rgba(0,0,0,75);
+  background-color: rgba(10,10,10,200);
   color: lightgrey;
 }
 button{
   background-color: lightgrey;
-  color: rgba(0,0,0,75);
+  color: rgba(10,10,10,200);
 }
